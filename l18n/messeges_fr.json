@@ -3,7 +3,7 @@
     "explanation": "Ce programme sélectionnera l'un des nombres suivants",
     "task": "Devine le nombre caché en un minimum d'étapes",
     "less": "Indice: Ta réponse est inférieur au nombre caché",
-    "more": "Indice: Ta réponse est supérieur au nombre caché",
+    "more": "Indice: Ta réponse est supérieure au nombre caché",
     "optimize": "Tu peux deviner le nombre en seulement 7 étapes",
     "repeat": "Veux-tu réessayer?",
     "random": "Les clics aléatoires ne fonctionneront pas. Réfléchis et trouve un meilleur moyen",
