@@ -8,7 +8,7 @@ class App extends React.Component {
     this.state = {
       messages: {},
       lang:"en",
-      langs:["en","hy","fr","ru"],
+      langs:["en","hy","fr","ru","de","uk"],
       numbers:[],
       secret:0,
       steps:0,
