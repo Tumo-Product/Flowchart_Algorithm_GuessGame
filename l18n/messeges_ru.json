@@ -1,0 +1,12 @@
+{
+    "title":"Guess the Number",
+    "explanation":"This program will select one of the following numbers",
+    "task":"Guess the hidden number in the least amount of steps",
+    "less":"Hint: Your guess is less than the hidden number",
+    "more":"Hint: Your guess is greater than the hidden Number",
+    "optimize":"You can guess the number in only 7 steps",
+    "repeat":"Try again?",
+    "random": "Random clicks won't work. Think and find a better way.",
+    "success": "Congratulations! \n The Number is",
+    "newgame": "New game"
+}
