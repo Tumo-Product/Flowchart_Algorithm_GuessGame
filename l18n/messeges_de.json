@@ -1,12 +1,12 @@
 {
-    "title":"Guess the Number",
-    "explanation":"This program will select one of the following numbers",
-    "task":"Guess the hidden number in the least amount of steps",
-    "less":"Hint: Your guess is less than the hidden number",
-    "more":"Hint: Your guess is greater than the hidden Number",
-    "optimize":"You can guess the number in only 7 steps",
-    "repeat":"Try again?",
-    "random": "Random clicks won't work. Think and find a better way.",
-    "success": "Congratulations! \n The Number is",
-    "newgame": "New game"
+    "title":"Erratet die Zahl",
+    "explanation":"Dieses Programm wählt eine der folgenden Zahlen aus.",
+    "task":"Ihr müsst in möglichst wenigen Schritten auf die versteckte Zahl kommen.",
+    "less":"Hinweis: Euer Tipp ist kleiner als die versteckte Zahl.",
+    "more":"Hinweis: Euer Tipp ist größer als die versteckte Zahl.",
+    "optimize":"Ihr könnt die Zahl in nur 7 Schritten erraten.",
+    "repeat":"Wollt ihr es noch einmal versuchen?",
+    "random": "Zufällige Klicks funktionieren nicht. Denkt nach und findet einen besseren Weg.",
+    "success": "Herzlichen Glückwunsch! \n Die Zahl lautet",
+    "newgame": "Neues Spiel"
 }
