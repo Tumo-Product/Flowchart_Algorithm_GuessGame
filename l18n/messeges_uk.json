@@ -1,12 +1,12 @@
 {
-    "title":"Guess the Number",
-    "explanation":"This program will select one of the following numbers",
-    "task":"Guess the hidden number in the least amount of steps",
-    "less":"Hint: Your guess is less than the hidden number",
-    "more":"Hint: Your guess is greater than the hidden Number",
-    "optimize":"You can guess the number in only 7 steps",
-    "repeat":"Try again?",
-    "random": "Random clicks won't work. Think and find a better way.",
-    "success": "Congratulations! \n The Number is",
-    "newgame": "New game"
+    "title":"Угадай число",
+    "explanation":"Ця програма загадала одне з чисел нижче.",
+    "task":"Угадай приховане число за якнайменшу кількість кроків.",
+    "less":"Підказка: твій варіант менший за приховане число.",
+    "more":"Підказка: твій варіант більший за приховане число.",
+    "optimize":"Ти можеш угадати число всього за 7 кроків.",
+    "repeat":"Спробувати ще раз?",
+    "random": "Не намагайся вгадати методом проб і помилок. Ти можеш придумати краще рішення.",
+    "success": "Молодець! \n Число–",
+    "newgame": "Зіграти спочатку"
 }
